@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd5eac51-bd8e-42c4-b88f-a013b89bb7f4" name="Default Changelist" comment="" />
+    <list default="true" id="dd5eac51-bd8e-42c4-b88f-a013b89bb7f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/C_DETENTE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -31,6 +34,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1iuBUAYxXO41RA4TLCAVocJvnh7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="CLionExternalConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="CMake Application.C_DETENTE">
     <configuration name="test" type="CLionExternalRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_DETENTE" TARGET_NAME="Test" CONFIG_NAME="Test">
@@ -73,11 +77,18 @@
       <option name="presentableId" value="Default" />
       <updated>1602747609419</updated>
       <workItem from="1602747612125" duration="227000" />
+      <workItem from="1602747881594" duration="283000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/C_DETENTE" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602747799094">
@@ -92,26 +103,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="299" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602747716116" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1602747899304">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1602748107574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602747899304" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1602747899304">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602748107574" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1602748107574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602747899304" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1602747899304">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602748107574" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1602748107574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602747899304" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1602747899304">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602748107574" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1602748107574">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602747899304" />
-    <state x="463" y="186" key="SettingsEditor" timestamp="1602747792891">
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602748107574" />
+    <state x="463" y="186" key="SettingsEditor" timestamp="1602748163702">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="463" y="186" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602747792891" />
+    <state x="463" y="186" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602748163702" />
     <state x="855" y="279" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1602747754608">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
